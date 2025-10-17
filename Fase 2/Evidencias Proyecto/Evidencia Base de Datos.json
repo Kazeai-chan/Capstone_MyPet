@@ -1,0 +1,1659 @@
+{
+  "animales": [
+    {
+      "id": "1",
+      "nombre": "Perro "
+    },
+    {
+      "id": "10",
+      "nombre": "Burro "
+    },
+    {
+      "id": "11",
+      "nombre": "Pato doméstico "
+    },
+    {
+      "id": "12",
+      "nombre": "Caballo "
+    },
+    {
+      "id": "13",
+      "nombre": "Dromedario "
+    },
+    {
+      "id": "14",
+      "nombre": "Gusano de seda "
+    },
+    {
+      "id": "15",
+      "nombre": "Paloma común "
+    },
+    {
+      "id": "16",
+      "nombre": "Camello "
+    },
+    {
+      "id": "17",
+      "nombre": "Llama "
+    },
+    {
+      "id": "18",
+      "nombre": "Alpaca "
+    },
+    {
+      "id": "19",
+      "nombre": "Gallina de Guinea "
+    },
+    {
+      "id": "2",
+      "nombre": "Gallo "
+    },
+    {
+      "id": "20",
+      "nombre": "Turón "
+    },
+    {
+      "id": "21",
+      "nombre": "Ratón casero "
+    },
+    {
+      "id": "22",
+      "nombre": "Tórtola rosigris "
+    },
+    {
+      "id": "23",
+      "nombre": "Pavo "
+    },
+    {
+      "id": "24",
+      "nombre": "Pez carpa "
+    },
+    {
+      "id": "25",
+      "nombre": "Rata doméstica "
+    },
+    {
+      "id": "26",
+      "nombre": "Canario doméstico "
+    },
+    {
+      "id": "27",
+      "nombre": "Pez guppy o pez millón "
+    },
+    {
+      "id": "28",
+      "nombre": "Abeja doméstica "
+    },
+    {
+      "id": "29",
+      "nombre": "Pato criollo "
+    },
+    {
+      "id": "3",
+      "nombre": "Gato "
+    },
+    {
+      "id": "30",
+      "nombre": "Pavo real "
+    },
+    {
+      "id": "31",
+      "nombre": "Cacatúa "
+    },
+    {
+      "id": "32",
+      "nombre": "Guacamaya "
+    },
+    {
+      "id": "33",
+      "nombre": "Tortuga de tierra "
+    },
+    {
+      "id": "34",
+      "nombre": "Cisne "
+    },
+    {
+      "id": "35",
+      "nombre": "Periquito australiano "
+    },
+    {
+      "id": "36",
+      "nombre": "Mosca de la fruta "
+    },
+    {
+      "id": "37",
+      "nombre": "Capibara, chigüire o carpincho "
+    },
+    {
+      "id": "38",
+      "nombre": "Hámster "
+    },
+    {
+      "id": "39",
+      "nombre": "Tortuga de orejas rojas "
+    },
+    {
+      "id": "4",
+      "nombre": "Vaca "
+    },
+    {
+      "id": "40",
+      "nombre": "Loro doméstico "
+    },
+    {
+      "id": "5",
+      "nombre": "Toro cebú "
+    },
+    {
+      "id": "6",
+      "nombre": "Cabra "
+    },
+    {
+      "id": "7",
+      "nombre": "Cerdo "
+    },
+    {
+      "id": "8",
+      "nombre": "Oveja "
+    },
+    {
+      "id": "9",
+      "nombre": "Cuy "
+    }
+  ],
+  "colores": [
+    {
+      "id": "1",
+      "nombre": "Negro"
+    },
+    {
+      "id": "10",
+      "nombre": "Blanco"
+    },
+    {
+      "id": "11",
+      "nombre": "Amarillo"
+    },
+    {
+      "id": "2",
+      "nombre": "Azul"
+    },
+    {
+      "id": "3",
+      "nombre": "Café"
+    },
+    {
+      "id": "4",
+      "nombre": "Gris"
+    },
+    {
+      "id": "5",
+      "nombre": "Verde"
+    },
+    {
+      "id": "6",
+      "nombre": "Naranja"
+    },
+    {
+      "id": "7",
+      "nombre": "Rosa"
+    },
+    {
+      "id": "8",
+      "nombre": "Púrpura"
+    },
+    {
+      "id": "9",
+      "nombre": "Rojo"
+    }
+  ],
+  "comen-marcador": [
+    {
+      "id": "6etnt8n15rSKeUn0fHAe",
+      "nombre": "VALERIA . HERNANDEZ GUTIERREZ",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "idmarker": "XderwAtsxV2rThnXReCb",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLfs7yZ8CvhUKqiGGy6Yt9MpTjn7GOAbIIGVI_P4cMZUWXIbw=s96-c",
+      "cuerpo": "Creo que lo vi cerca de mi casa",
+      "c_fecha": {
+        "_seconds": 1759010198,
+        "_nanoseconds": 174000000
+      }
+    },
+    {
+      "id": "7fWlbxcKp24es9AVRNR4",
+      "idmarker": "jh52qYyAM6XVnGUIFKof",
+      "c_fecha": {
+        "_seconds": 1720297042,
+        "_nanoseconds": 505000000
+      },
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "nombre": "Roberto",
+      "cuerpo": "muy rápido ",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "E4c7cDtkBcYByKkvQ2ux",
+      "idmarker": "xJRIL1tRIHDvn0M7gxty",
+      "nombre": "VALERIA HERNANDEZ GUTIERREZ",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "cuerpo": "me encanta esta veterinaria ",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLfs7yZ8CvhUKqiGGy6Yt9MpTjn7GOAbIIGVI_P4cMZUWXIbw=s96-c",
+      "c_fecha": {
+        "_seconds": 1759037713,
+        "_nanoseconds": 958000000
+      }
+    },
+    {
+      "id": "WwVA3JB6Dg7g09rMjArI",
+      "fecha": {
+        "_seconds": 1718504216,
+        "_nanoseconds": 128000000
+      },
+      "idmarker": "qUAuAK5Eqp7ISvqKSbeA",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "nombre": "Valeria",
+      "cuerpo": "Me encanta la atención de esta tienda",
+      "c_fecha": {
+        "_seconds": 1718683200,
+        "_nanoseconds": 46000000
+      },
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "axyeIlCt6qHSvM7iNDYd",
+      "idmarker": "oXP4nmFmMarbAxCLhXiB",
+      "c_fecha": {
+        "_seconds": 1719015232,
+        "_nanoseconds": 566000000
+      },
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "nombre": "Valeria",
+      "cuerpo": "siempre compro cosas para mi Hamtaro",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    }
+  ],
+  "comentarios": [
+    {
+      "id": "1QQnQl2GwGyiYfNlcQDZ",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "c_fecha": {
+        "_seconds": 1720149576,
+        "_nanoseconds": 396000000
+      },
+      "idtema": "la1wn2R36YHLjLlLT8Pm",
+      "c_nombre": "Roberto",
+      "c_cuerpo": "me encanta",
+      "c_iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "2zdKDHkKwamiRUcZA9vy",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocLfs7yZ8CvhUKqiGGy6Yt9MpTjn7GOAbIIGVI_P4cMZUWXIbw=s96-c",
+      "idtema": "Cl2PZbPUhqCPLGm7YDq6",
+      "c_nombre": "VALERIA .",
+      "c_cuerpo": "mmmm llévalos a la playa",
+      "c_fecha": {
+        "_seconds": 1717387200,
+        "_nanoseconds": 554000000
+      },
+      "c_iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2"
+    },
+    {
+      "id": "3gyDVD3rDQsdzqjK24pl",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEm-YH3z-F7W__g6CBzRpfy8DHH_wLQChUAZKHaOniLJxnZg=s96-c",
+      "c_fecha": {
+        "_seconds": 1717859420,
+        "_nanoseconds": 779000000
+      },
+      "idtema": "la1wn2R36YHLjLlLT8Pm",
+      "c_iduser": "106971675091708052641",
+      "c_nombre": "IGNACIO .",
+      "c_cuerpo": "😭"
+    },
+    {
+      "id": "5mQIX63msau3PVnXseVL",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEm-YH3z-F7W__g6CBzRpfy8DHH_wLQChUAZKHaOniLJxnZg=s96-c",
+      "c_fecha": {
+        "_seconds": 1717859437,
+        "_nanoseconds": 185000000
+      },
+      "idtema": "la1wn2R36YHLjLlLT8Pm",
+      "c_iduser": "106971675091708052641",
+      "c_nombre": "IGNACIO .",
+      "c_cuerpo": "  Que increíble tu perro!!"
+    },
+    {
+      "id": "CDD2SlU8pwwp4HOJWFlW",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "idtema": "5BTO5Q7v4Uom0SEyaI5s",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "Prueba3",
+      "c_fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 983000000
+      },
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "GMPDQW8XLIgm1zkaDTfT",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "idtema": "TpiWSDhaiFDBiaq3HuG5",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "Es demasiado triste",
+      "c_fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 7000000
+      },
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "LF3ZNPIeYfqb7iWPzEl3",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "c_fecha": {
+        "_seconds": 1716609600,
+        "_nanoseconds": 914000000
+      },
+      "idtema": "TpiWSDhaiFDBiaq3HuG5",
+      "c_nombre": "Roberto",
+      "c_cuerpo": "Si! yo siempre hago lo mismo con Boby!",
+      "c_iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "LfBqqR3bJRSftZNFB3bJ",
+      "c_avatar": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1759985675923.png?alt=media&token=83304dcf-a8bc-4a10-bcfd-1e842fb1f5b8",
+      "c_cuerpo": "yo lo veo en mi casa a veces",
+      "c_fecha": {
+        "_seconds": 1760136486,
+        "_nanoseconds": 120000000
+      },
+      "c_iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "c_nombre": "VALERIA HERNANDEZ GUTIERREZ",
+      "idtema": "0wO13jM1VH4yBjjUtun6"
+    },
+    {
+      "id": "N5hsXK7flaCwB2BuMNSq",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "idtema": "0wO13jM1VH4yBjjUtun6",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "ponle un cascabel!",
+      "c_fecha": {
+        "_seconds": 1717387200,
+        "_nanoseconds": 86000000
+      },
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "YITuzKg99gyqgQN5UUwJ",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "idtema": "5BTO5Q7v4Uom0SEyaI5s",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "Prueba",
+      "c_fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 182000000
+      },
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "ZvvXq1aJbikGG82ZSQjn",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "c_fecha": {
+        "_seconds": 1717807845,
+        "_nanoseconds": 354000000
+      },
+      "idtema": "nNBDsJlen7RQ0yapMLkc",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "que linda es!",
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "dyncVZMLoXxbxFOr0y05",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "idtema": "5BTO5Q7v4Uom0SEyaI5s",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "pobrecito tu gatito",
+      "c_fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 7000000
+      },
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "lQVUp3aPxM6Xb6W3Lke4",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "c_fecha": {
+        "_seconds": 1717823769,
+        "_nanoseconds": 172000000
+      },
+      "idtema": "la1wn2R36YHLjLlLT8Pm",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "y que síntomas tiene???",
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "mZ4OikTZd0cdDbseDUns",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "idtema": "5BTO5Q7v4Uom0SEyaI5s",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "Prueba2",
+      "c_fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 278000000
+      },
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "t4Z3GpQQfxWwGmsXCjmy",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "idtema": "TpiWSDhaiFDBiaq3HuG5",
+      "c_nombre": "Valeria",
+      "c_cuerpo": "Prueba",
+      "c_fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 413000000
+      },
+      "c_iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "x8BcZNzXkdKNfyuMDZTe",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "idtema": "TpiWSDhaiFDBiaq3HuG5",
+      "c_nombre": "Roberto",
+      "c_cuerpo": "a la mía le sale fuego de la boca, es normal?",
+      "c_fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 591000000
+      },
+      "c_iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "zfxB9Xb0b3ukTA1k5ULz",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "c_fecha": {
+        "_seconds": 1720152533,
+        "_nanoseconds": 67000000
+      },
+      "idtema": "hh3sHXxX5UzeUdaxnbBF",
+      "c_nombre": "Roberto",
+      "c_cuerpo": "dale más comida",
+      "c_iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    }
+  ],
+  "creadores": [
+    {
+      "id": "XBLoyKV1e747hyDWkXa5",
+      "tipo": "tienda",
+      "marcadores": 0
+    },
+    {
+      "id": "robertowimmer@gmail.com",
+      "tipo": "tienda",
+      "marcadores": 0
+    },
+    {
+      "id": "valeritahernandez@gmail.com",
+      "tipo": "administrador",
+      "marcadores": 1
+    },
+    {
+      "id": "xdEHKbBa8U5YJPbbrAzA",
+      "tipo": "tienda",
+      "marcadores": 0
+    },
+    {
+      "id": "yEm9M1piui0tlUzWQDM8",
+      "tipo": "tienda",
+      "marcadores": 0
+    }
+  ],
+  "friendships": [
+    {
+      "id": "GHqUaNK4iHQwAbOOcVUe",
+      "users": [
+        "7vLvXd5g9AT36GZKC527jP5cgiS2",
+        "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+      ],
+      "status": "pending",
+      "requestedBy": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "createdAt": {
+        "_seconds": 1760498385,
+        "_nanoseconds": 652000000
+      }
+    },
+    {
+      "id": "PrMvIMhmJhWlFUOHrppv",
+      "users": [
+        "7vLvXd5g9AT36GZKC527jP5cgiS2",
+        "H0edQIhat7cwzjJZ6ImekQt3D422"
+      ],
+      "requestedBy": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "createdAt": {
+        "_seconds": 1760500095,
+        "_nanoseconds": 512000000
+      },
+      "status": "accepted"
+    }
+  ],
+  "gustas": [
+    {
+      "id": "59k0f57a1kO1GWGhArOL",
+      "idtema": "hh3sHXxX5UzeUdaxnbBF",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "8xzsqRf3x7i4AVBdLR6T",
+      "idtema": "0wO13jM1VH4yBjjUtun6",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "9qqs7Cvv5xWexWB6VN9M",
+      "idtema": "gNqObGkEnJ2H2qI07eAy",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "FQLiPjQdxqwreApiqkUA",
+      "idtema": "5BTO5Q7v4Uom0SEyaI5s",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2"
+    },
+    {
+      "id": "Hs6gwU9jdnMjsEfznxvs",
+      "idtema": "mkezB5o3v55qLgptM8pe",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2"
+    },
+    {
+      "id": "JPWYuanKMjXaRZijGpDh",
+      "idtema": "la1wn2R36YHLjLlLT8Pm",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2"
+    },
+    {
+      "id": "K0LDYij3n7FXx6fkcvBm",
+      "idtema": "0wO13jM1VH4yBjjUtun6",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2"
+    },
+    {
+      "id": "LNqGtXUo8Xgi0grGOP96",
+      "idtema": "hh3sHXxX5UzeUdaxnbBF",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "LTV58aRpjHTpEpcLey68",
+      "idtema": "nNBDsJlen7RQ0yapMLkc",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "O71VliJvI06wCyCRQ12B",
+      "idtema": "5BTO5Q7v4Uom0SEyaI5s",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "Rml4CyHi85lcma00XZDr",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "idtema": "Cl2PZbPUhqCPLGm7YDq6"
+    },
+    {
+      "id": "UiCCDh8zjhTg62yitcFX",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "idtema": "TpiWSDhaiFDBiaq3HuG5"
+    },
+    {
+      "id": "alDFpfZiHsLWW3XY9eei",
+      "idtema": "5BTO5Q7v4Uom0SEyaI5s",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "cLp0c6RxfNT2cTibQQcj",
+      "idtema": "Cl2PZbPUhqCPLGm7YDq6",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "kbCJfPK3IKNiGMK31MER",
+      "idtema": "la1wn2R36YHLjLlLT8Pm",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "ktd0TvITfi7VzGQgbksi",
+      "idtema": "TpiWSDhaiFDBiaq3HuG5",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "ll0Y2UzjqUCVPixLQOPt",
+      "idtema": "0wO13jM1VH4yBjjUtun6",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "otVKTxBzmgtl698ENbQt",
+      "idtema": "TpiWSDhaiFDBiaq3HuG5",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "sWuI4DzvvV8DYnCcjiBH",
+      "idtema": "la1wn2R36YHLjLlLT8Pm",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "vIDP50SExT6M3EcbkXC3",
+      "idtema": "gNqObGkEnJ2H2qI07eAy",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "zgfLQg4k3nMlA1wEp6dg",
+      "idtema": "hh3sHXxX5UzeUdaxnbBF",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2"
+    }
+  ],
+  "marcadores": [
+    {
+      "id": "2QTUxJjbys75vR3PInmy",
+      "lat": 37.79083133778101,
+      "lng": -122.40536557406618,
+      "tipo": "mascota",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "fecha": "2025-10-03",
+      "direccion": "410 Grant Ave, San Francisco, CA 94108, USA",
+      "tipo_r": "Mascota Perdida",
+      "nombre": "Gatubelo",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1758761045237_mascota.png?alt=media&token=af06b1d4-7f95-4e36-b48c-404c41352f21",
+      "animal": "Gallo ",
+      "color": "Blanco",
+      "tamano": "Pequeño",
+      "descripcion": "Han visto a mi gallo?"
+    },
+    {
+      "id": "39S8EOGWX9x5pYWUBWcR",
+      "lat": -33.43493714786748,
+      "lng": -70.6172572616839,
+      "tipo": "mascota",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "fecha": "2025-10-10",
+      "direccion": "Valenzuela Castillo 1277, 7500749 Providencia, Región Metropolitana, Chile",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1760135036359_reporte.png?alt=media&token=916a9ae7-f4ed-4e87-905d-20b4c5244803",
+      "tipo_r": "Mascota Encontrada",
+      "animal": "Gato ",
+      "tamano": "Medio",
+      "color": "Rojo",
+      "descripcion": "APareció hoy en mi ventana",
+      "nombre": "Desconocido"
+    },
+    {
+      "id": "4gbBF4y3Ge2UBJ6yEGiA",
+      "descripcion": "Lo encontré en la avenida de al lado",
+      "fecha": "2025-09-30",
+      "direccion": "Gral. Mackenna 1441, 8340115 Santiago, Región Metropolitana, Chile",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "lng": -70.65834202740442,
+      "color": "Rojo",
+      "tipo_r": "Mascota Encontrada",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1759201846174.jpg?alt=media&token=472916b4-1274-4c1d-92fa-4e64dd61d1be",
+      "animal": "Burro ",
+      "lat": -33.43323686555056,
+      "tipo": "mascota",
+      "tamano": "Grande",
+      "nombre": "Desconocido"
+    },
+    {
+      "id": "7b15oKue8qomWgt4ft47",
+      "lat": -33.43029525395318,
+      "lng": -70.61436653137207,
+      "tipo": "mascota",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "fecha": "2025-10-03",
+      "direccion": "8320000, Av. Antonio Varas 360 Hosp. Luis Calvo Mackenna, 7500089 Providencia, Región Metropolitana, Chile",
+      "tipo_r": "Mascota Perdida",
+      "nombre": "Boby",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717826011849_IMG_2672.jpeg?alt=media&token=55bc2f36-b806-4e3b-8790-3a4a1f80b1ab",
+      "animal": "Perro ",
+      "color": "Café",
+      "tamano": "Medio",
+      "descripcion": "donnde esta"
+    },
+    {
+      "id": "GIuHIPcLDsYpPnCUa2uN",
+      "descripcion": "Tenemos de todo para su mascota, desde alimento, pasando por arenas e incluimos juguetes",
+      "tipo": "Tienda",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1719444045651_istockphoto-612739772-612x612.jpg?alt=media&token=4e5a269e-6d14-468d-aae9-5289ef888602",
+      "lng": -70.62632075819701,
+      "direccion": "Vicuña Mackenna 501, La Granja, Región Metropolitana, Chile",
+      "nombre": "Las mejores mascotas",
+      "lat": -33.54712011485814,
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "XderwAtsxV2rThnXReCb",
+      "descripcion": "Se perdió hoy en la mañana y no lo logramos encontrar!!",
+      "tipo": "mascota",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717993076051_images-2.jpeg?alt=media&token=1855c949-b575-4a7a-a610-14d02b3320c0",
+      "lng": -70.6591225571529,
+      "color": "Blanco",
+      "direccion": "Av. Manuel Rodríguez Sur 399, 8340401 Santiago, Región Metropolitana, Chile",
+      "tipo_r": "Mascota Perdida",
+      "nombre": "Pedrito",
+      "lat": -33.43953837705536,
+      "tamano": "Pequeño",
+      "animal": "Perro ",
+      "fecha": "2024-06-11",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "Zz7Gz5GPecLcEbrVnNcT",
+      "descripcion": "Donde encontrarás de todo para tu mascota",
+      "tipo": "Tienda",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1719024386073_images-3.jpeg?alt=media&token=0ee281c8-c633-452c-8c94-854e7ebe498f",
+      "lng": -70.6554365158081,
+      "direccion": "Teatinos 332, 8340394 Santiago, Región Metropolitana, Chile",
+      "nombre": "Supermercado de Mascotas",
+      "lat": -33.43968379113279,
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "jh52qYyAM6XVnGUIFKof",
+      "descripcion": "Puedes traer a cualqueir tipo de mascota",
+      "tipo": "Veterinaria",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1719074653968_83e2ccef8df241259257370ae41f91f0.jpg?alt=media&token=8931f35c-f28e-4d6e-ab34-c8637e023b55",
+      "lng": -70.61840057373047,
+      "direccion": "Dr. Manuel Barros Borgoño 163, 7500593 Providencia, Región Metropolitana, Chile",
+      "nombre": "Veterinaria Juan XXIII",
+      "lat": -33.43033106923295,
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2"
+    },
+    {
+      "id": "oXP4nmFmMarbAxCLhXiB",
+      "descripcion": "Puedes encontrar lo que quieras para Hamsters",
+      "tipo": "Tienda",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrVuQsFoVkvVfZp8QsavJ5SnxRxLLD8-rYg&s",
+      "lng": -70.6152466,
+      "direccion": "Antonio Varas 242, Providencia",
+      "nombre": "El hámster feliz",
+      "lat": -33.4332075,
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "qUAuAK5Eqp7ISvqKSbeA",
+      "tipo": "Tienda",
+      "foto": "https://media.istockphoto.com/id/1355290974/es/foto/perro-cerca-de-diferentes-variaciones-de-bienes-para-animales.jpg?s=612x612&w=0&k=20&c=6Hv8jQuYjj6JCtljn07ep4W07UgTY3NAIXYMfTQzj-Y=",
+      "lng": -70.65697712692715,
+      "direccion": "Santo Domingo 1240, Santiago",
+      "nombre": "El Perro Feliz",
+      "lat": -33.43636967003934,
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "descripcion": "La mejor tienda de accesorios para perros y gatos"
+    },
+    {
+      "id": "rbzIm96BcwyKruKHNxmi",
+      "lat": -33.43532377388558,
+      "lng": -70.66354751586914,
+      "tipo": "mascota",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "fecha": "2025-10-10",
+      "direccion": "San Pablo 1878, 8340230 Santiago, Región Metropolitana, Chile",
+      "tipo_r": "Mascota Perdida",
+      "nombre": "Cocoroco",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1758761045237_mascota.png?alt=media&token=af06b1d4-7f95-4e36-b48c-404c41352f21",
+      "animal": "Gallo ",
+      "color": "Blanco",
+      "tamano": "Pequeño",
+      "descripcion": "mi peque"
+    },
+    {
+      "id": "xJRIL1tRIHDvn0M7gxty",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "lng": -70.65277579073084,
+      "lat": -33.43557896335615,
+      "tipo": "Veterinaria",
+      "direccion": "Bandera 667, 8320301 Santiago, Región Metropolitana, Chile",
+      "descripcion": "la mejor vet del mundo",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1760075593677.png?alt=media&token=dd971ade-896c-4b02-9b47-09538f7cb412",
+      "nombre": "Veterinaria Municipal"
+    }
+  ],
+  "mascotas": [
+    {
+      "id": "8UUJpont1pYsb3FP5Ny3",
+      "animal": "Gallo ",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "nacimiento": "2025-09-17",
+      "propia": true,
+      "raza": "Quiltro",
+      "tamano": "Pequeño",
+      "color": "Blanco",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1758761045237_mascota.png?alt=media&token=af06b1d4-7f95-4e36-b48c-404c41352f21",
+      "nombre": "Cocoroco"
+    },
+    {
+      "id": "E6cPesNiKkauePsHpCSL",
+      "propia": true,
+      "raza": "Quiltro",
+      "nombre": "Boby",
+      "tamano": "Medio",
+      "nacimiento": "2024-05-15",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717826011849_IMG_2672.jpeg?alt=media&token=55bc2f36-b806-4e3b-8790-3a4a1f80b1ab",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "animal": "Perro ",
+      "color": "Café"
+    },
+    {
+      "id": "IEhsMK7Y9buvd0BhDnLK",
+      "propia": true,
+      "raza": "Hogareño",
+      "color": "Blanco",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717556074406_1000075603.jpg?alt=media&token=a939ec1f-3ce9-4587-b35d-669d5c6753ee",
+      "animal": "Gato",
+      "nombre": "Bichichi",
+      "tamano": "Pequeño",
+      "nacimiento": "2020-03-01",
+      "iduser": "HJikUF6wOIhF68Ua0oHuOgIU3BD3"
+    },
+    {
+      "id": "JrGSp3maIIpG5rFD2tm4",
+      "propia": true,
+      "nombre": "Cosmo",
+      "tamano": "Medio",
+      "nacimiento": "2007-11-07",
+      "color": "Café",
+      "animal": "Perro ",
+      "raza": "De Raza",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717910808081_Cosmo_(Earth-616)_from_Symbiote_Spider-Man_King_in_Black_Vol_1_4_001.jpg?alt=media&token=aba9f059-27ba-48f2-a499-954c657aac80"
+    },
+    {
+      "id": "OL96NGKvMYboHYojnO5K",
+      "nacimiento": "2025-09-04",
+      "color": "Blanco",
+      "animal": "Perro ",
+      "propia": true,
+      "raza": "Hogareño",
+      "nombre": "Bolita",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1758761163339_mascota.png?alt=media&token=4874c2cd-83bc-418f-ba96-bc6c21d90e01",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "tamano": "Medio"
+    },
+    {
+      "id": "PMFdpR1EsV32JW2CzbWe",
+      "propia": true,
+      "color": "Blanco",
+      "nombre": "Kyubi",
+      "nacimiento": "2015-06-03",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2FKyubi.jpg?alt=media&token=a9c00495-1c65-4086-bd1f-8aa83d6095ae",
+      "animal": "Gato ",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "raza": "De Raza",
+      "tamano": "Grande"
+    },
+    {
+      "id": "QhDLSpSEVWnVe7fE3ptl",
+      "propia": true,
+      "raza": "De Raza",
+      "color": "Blanco",
+      "nombre": "Krypto",
+      "tamano": "Medio",
+      "nacimiento": "1955-03-08",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2Fa91ce3ea-b6d7-4b28-b00b-aa0e8ead7944.jpeg?alt=media&token=49903157-e183-4318-b5c1-dcedda6f127a",
+      "animal": "Perro ",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "USccX1uCSjKncFdivxJq",
+      "propia": true,
+      "raza": "Quiltro",
+      "color": "Blanco",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717993076051_images-2.jpeg?alt=media&token=1855c949-b575-4a7a-a610-14d02b3320c0",
+      "nombre": "Pedrito",
+      "tamano": "Pequeño",
+      "nacimiento": "2024-06-05",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "animal": "Perro "
+    },
+    {
+      "id": "UX0lvw3NMVJIXn7dTfmE",
+      "propia": true,
+      "raza": "Hogareño",
+      "nombre": "Michi",
+      "tamano": "Grande",
+      "nacimiento": "2024-05-07",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717826284748_DSC_0553_Original.jpeg?alt=media&token=0c239df9-0ddd-499d-849d-a5de299c01b2",
+      "animal": "Gato ",
+      "color": "Café",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "V0WY6yUK9AwBBPCk0s8w",
+      "propia": true,
+      "nombre": "Streaky",
+      "tamano": "Pequeño",
+      "nacimiento": "1960-02-10",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717822440915_20240525_020622.jpg?alt=media&token=42630fa9-9872-44a4-b98e-319e4ea875b2",
+      "raza": "Hogareño",
+      "color": "Naranja",
+      "animal": "Gato ",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "hZWOeQ5xbSYgTXi2OSH5",
+      "propia": true,
+      "raza": "Quiltro",
+      "color": "Rosa",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1719789666207_IMG-20240628-WA0003.jpg?alt=media&token=c0267c54-4e59-458c-aa77-6d330742c301",
+      "animal": "Burro ",
+      "tamano": "Pequeño",
+      "nacimiento": "2024-06-05",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "nombre": "Boby"
+    },
+    {
+      "id": "j73WxTyAcvGs7JnrYnD2",
+      "animal": "Burro ",
+      "color": "Café",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1757646622638_500_333.jpeg?alt=media&token=7ca0f7d4-5449-47a1-8731-a78a99fe3f77",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "nacimiento": "2024-09-12",
+      "nombre": "Pedrito",
+      "propia": true,
+      "raza": "Quiltro",
+      "tamano": "Medio"
+    },
+    {
+      "id": "ml2lEx8lP8W1zXmAdWFv",
+      "propia": true,
+      "raza": "De Raza",
+      "nombre": "Lockheed",
+      "nacimiento": "1983-02-16",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717822467424_20240525_120746.jpg?alt=media&token=0e9a727c-63ec-44aa-b420-634137e5fd26",
+      "color": "Púrpura",
+      "animal": "Cisne ",
+      "tamano": "Pequeño",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "owGnxJ0mO2laXZ3Do0TR",
+      "propia": true,
+      "nombre": "Sachi",
+      "tamano": "Pequeño",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2FSachiko.png?alt=media&token=8485f931-112d-4b0e-b82a-d27092992e40",
+      "color": "Negro",
+      "nacimiento": "2017-01-14",
+      "animal": "Gato ",
+      "raza": "De Raza",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "rs0fCwJMW7mWD7BKEsGb",
+      "propia": true,
+      "raza": "De Raza",
+      "nombre": "Lockjaw",
+      "tamano": "Grande",
+      "nacimiento": "1965-12-15",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717822488069_20240525_121107.jpg?alt=media&token=2cf091b7-da41-4a36-aab1-5d1fb50f0932",
+      "color": "Café",
+      "animal": "Perro ",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "sTlYOKJyxgdx1rwILMw4",
+      "propia": true,
+      "raza": "De Raza",
+      "color": "Cafe",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717533576557_1000086313.jpg?alt=media&token=a52f8971-07e5-4f96-9b58-eeafe72b1890",
+      "animal": "Perro",
+      "nombre": "floki",
+      "tamano": "Pequeño",
+      "nacimiento": "2016-11-16",
+      "iduser": "rbAehBN4P9bMVe6B2zHttfJEYAt1"
+    }
+  ],
+  "mensajes": [
+    {
+      "id": "2IXTWDED5OsxBsCD6O0L",
+      "de": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "para": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "mensaje": "Valeria Hernández Gutiérrez ha encontrado a Boby",
+      "fecha": {
+        "_seconds": 1759535304,
+        "_nanoseconds": 730000000
+      },
+      "leido": true
+    },
+    {
+      "id": "3MA4SikUMkPOdfYZGDyH",
+      "para": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "mensaje": "VALERIA HERNANDEZ GUTIERREZ ha encontrado a Pedrito",
+      "de": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "fecha": {
+        "_seconds": 1759200015,
+        "_nanoseconds": 269000000
+      },
+      "leido": true
+    },
+    {
+      "id": "5aVlMnm4FIiUGGed5uNr",
+      "de": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "para": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "mensaje": "lo encontraste?",
+      "fecha": {
+        "_seconds": 1759465042,
+        "_nanoseconds": 515000000
+      },
+      "leido": true
+    },
+    {
+      "id": "9UeZW1f6S9t96iLcr8V1",
+      "de": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "para": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "mensaje": "no, somos la misma persona",
+      "fecha": {
+        "_seconds": 1759533260,
+        "_nanoseconds": 866000000
+      },
+      "leido": true
+    },
+    {
+      "id": "D7InkJE2tS56BAHoHs3Y",
+      "de": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "para": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "mensaje": "pero como es posible, eres un clon?",
+      "fecha": {
+        "_seconds": 1759517528,
+        "_nanoseconds": 957000000
+      },
+      "leido": true
+    },
+    {
+      "id": "Ex3hzj2VLuG4Z3ePz6iS",
+      "de": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "para": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "mensaje": "no lo se, de donde eres?",
+      "fecha": {
+        "_seconds": 1759468793,
+        "_nanoseconds": 602000000
+      },
+      "leido": true
+    },
+    {
+      "id": "FJB90lUgybjKZVCPJYX2",
+      "de": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "para": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "mensaje": "has visto algo mas?",
+      "fecha": {
+        "_seconds": 1759985784,
+        "_nanoseconds": 20000000
+      },
+      "leido": true
+    },
+    {
+      "id": "FNaKihYMkSjRBzUG2ebS",
+      "de": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "para": "EDofnRjjotVwJgfP3CeoSHPWyVj2",
+      "mensaje": "hola",
+      "fecha": {
+        "_seconds": 1760143904,
+        "_nanoseconds": 688000000
+      },
+      "leido": true
+    },
+    {
+      "id": "fz22xUvZWolCS57JkIO0",
+      "de": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "para": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "mensaje": "que hacemos? si lo viste, me ayudas a buscar donde puede estar?",
+      "fecha": {
+        "_seconds": 1759465086,
+        "_nanoseconds": 338000000
+      },
+      "leido": true
+    },
+    {
+      "id": "gtW2xLFMngKH2mylhfEC",
+      "de": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "para": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "mensaje": "Valeria Hernández Gutiérrez dice que la mascota que encontraste es suya",
+      "fecha": {
+        "_seconds": 1759201992,
+        "_nanoseconds": 733000000
+      },
+      "leido": true
+    },
+    {
+      "id": "hNKRp0NkN694T2jZ5OON",
+      "de": "EDofnRjjotVwJgfP3CeoSHPWyVj2",
+      "para": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "mensaje": "hola",
+      "fecha": {
+        "_seconds": 1760143913,
+        "_nanoseconds": 90000000
+      },
+      "leido": true
+    },
+    {
+      "id": "uLYrepWZZRe7lgPJjYIr",
+      "de": "EDofnRjjotVwJgfP3CeoSHPWyVj2",
+      "para": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "mensaje": "Roberto Wimmer ha encontrado a Cocoroco",
+      "fecha": {
+        "_seconds": 1760143867,
+        "_nanoseconds": 770000000
+      }
+    }
+  ],
+  "news": [
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL25vdGljaWFzLzIwMjUvMDkvMDQvdmlvbGVudG8tcm9iby1lbi1tYWlwdS1zdWpldG9zLW1hbmlhdGFyb24tYS1tZW5vcmVzLWludGltaWRhcm9uLWEtcGVyc29uYS1wb3N0cmFkby15LXNlLWxsZXZhcm9uLWEtbGFzLW1hc2NvdGFz",
+      "title": "Violento robo en Maipú: sujetos maniataron a menores, intimidaron a persona postrado y se llevaron a las mascotas",
+      "link": "https://publimetro.cl/noticias/2025/09/04/violento-robo-en-maipu-sujetos-maniataron-a-menores-intimidaron-a-persona-postrado-y-se-llevaron-a-las-mascotas",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/YL7YRDGZKJG77AAF6Q5E5LJM34.jpg?smart=true&auth=e065ad01b466c2fbb93a6e32466e5d7c0dd636d4fbb2c6787eca4138c04a9526&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-09-04T12:47:45.831Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL2RlcG9ydGVzLzIwMjUvMDkvMjQvZmlmYS1yZXZlbGEtbG9zLW5vbWJyZXMtZGUtbGFzLXRyZXMtbWFzY290YXMtZGVsLW11bmRpYWwtMjAyNi16YXl1LWNsdXRjaC15LW1hcGxl",
+      "title": "FIFA revela los nombres de las tres mascotas del Mundial 2026: Zayu, Clutch y Maple",
+      "link": "https://publimetro.cl/deportes/2025/09/24/fifa-revela-los-nombres-de-las-tres-mascotas-del-mundial-2026-zayu-clutch-y-maple",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/YLGBGKEI3NDMXCI5EJGKYHD46A.png?smart=true&auth=0ea3e155405fcdcfbbe85a028a610dc0b0ed675ea15afbc757d7affe8e12052a&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-09-24T23:33:44.834Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL2VzdGlsby12aWRh",
+      "title": "“Ley Duque”: mayoría de los trabajadores apoya idea de tener un día libre en caso de muerte o enfermedad grave de una mascota",
+      "link": "https://publimetro.cl/estilo-vida",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/4IBAV32G6VEFBF4OX6TQIZW3GY.webp?smart=true&auth=a29063bd95f68c73201244f844abcea4c2970f2af4b2acaaa13a765074778eab&width=800&height=600",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-09-26T16:45:14.198Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL2VzdGlsby12aWRhLzIwMjUvMDIvMTQvYWxleGlzLXNhbmNoZXotc29ycHJlbmRlLWVuLXJlZGVzLXNvY2lhbGVzLWFsLXByZXNlbnRhci1hLXN1LW51ZXZvLWludGVncmFudGUtZGUtbGEtZmFtaWxpYQ==",
+      "title": "Alexis Sánchez sorprende en redes sociales al presentar a su “nuevo integrante de la familia”",
+      "link": "https://publimetro.cl/estilo-vida/2025/02/14/alexis-sanchez-sorprende-en-redes-sociales-al-presentar-a-su-nuevo-integrante-de-la-familia",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/GACMXQESUZFHDAINFJCDCEN3RA.jpg?smart=true&auth=7345993ea053280f7d46eeddeb85be1b9e931ffbca62138409eda2836e3b5b6b&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-02-14T20:56:47.431Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL2VzdGlsby12aWRhLzIwMjUvMDUvMjgvYW50ZXMtbm8tcG9kaWEtcmVzcGlyYXItcGFjaWVudGUtY3JpdGljby1kZS1sYS11LWRlLWNoaWxlLXJlY2liaW8tbGEtdmlzaXRhLWRlLXN1LXBlcnJpdG8tYWxnby1xdWUtcG9kcmFuLWhhY2VyLW90cm9zLWdyYWNpYXMtYS1udWV2by1wcm90b2NvbG8=",
+      "title": "“Antes no podía respirar”: paciente crítico de la U. de Chile recibió la visita de su perrito, algo que podrán hacer otros gracias a nuevo protocolo",
+      "link": "https://publimetro.cl/estilo-vida/2025/05/28/antes-no-podia-respirar-paciente-critico-de-la-u-de-chile-recibio-la-visita-de-su-perrito-algo-que-podran-hacer-otros-gracias-a-nuevo-protocolo",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/6NPXXCQWIBEGLHFKQ7SFPIQQBE.jpg?smart=true&auth=7ee6865e9082526e0958bcbcf276080aaf7e3a0dd8021363c3b633c91b5793ad&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-05-28T17:32:55.508Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL2VzdGlsby12aWRhLzIwMjUvMDcvMjAvbWl0b3MteS12ZXJkYWRlcy1lbi1sb3MtcHJvY2VkaW1pZW50b3MtZGUtZG9uYWNpb24tZGUtc2FuZ3JlLWVudHJlLW1hc2NvdGFz",
+      "title": "Mitos y verdades en los procedimientos de donación de sangre entre mascotas",
+      "link": "https://publimetro.cl/estilo-vida/2025/07/20/mitos-y-verdades-en-los-procedimientos-de-donacion-de-sangre-entre-mascotas",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/BY77FZCC6FGVLMI63AFPFZJ3FY.jpg?smart=true&auth=616a787ed968ab0c6de3e969ee1e309d6f90c48f8aa9ed8ff942fb39f5beada0&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-07-20T15:38:00Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL2VzdGlsby12aWRhLzIwMjUvMDkvMDEvcGxhbmVzLWZ1bmVyYXJpb3MtcGFyYS1sb3MtYW5pbWFsZXMtZGUtY29tcGFuaWE=",
+      "title": "Funerales para animales de compañía",
+      "link": "https://publimetro.cl/estilo-vida/2025/09/01/planes-funerarios-para-los-animales-de-compania",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/XBQZQ5WOQRHRDGKBSDDBCQSBLM.jpg?smart=true&auth=8e49b2c6074c7e799c4d0d4d8da24e2bedf387f62b5eea4b3104564c45665ede&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-09-01T10:05:55.192Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL3NvY2lhbC8yMDI1LzA0LzExL2FkcmlhbmEtYmFycmllbnRvcy1wcm90YWdvbml6YS1jb25mbGljdG8tY29uLXZlY2lub3MteS1nZW5lcmEtZGViYXRlLWVuLXJlZGVzLXBvci10ZW5lbmNpYS1hbmltYWw=",
+      "title": "Adriana Barrientos protagoniza conflicto con vecinos y genera debate  en redes por tenencia animal",
+      "link": "https://publimetro.cl/social/2025/04/11/adriana-barrientos-protagoniza-conflicto-con-vecinos-y-genera-debate-en-redes-por-tenencia-animal",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/RQ3YEWE2NBC6RKN2UXROUU576M.png?smart=true&auth=4d96e0a1516efcd6c9ee1a03a639ce219aa7e3be3f52325cb16714157a9297a7&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-04-11T13:49:35.784Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL3NvY2lhbC8yMDI1LzA3LzA5L2FkdWx0by1tYXlvci1jYXVzYS1yZXZ1ZWxvLWVuLXJlZGVzLXNvY2lhbGVzLWFsLW9mcmVjZXItc3UtaGVyZW5jaWEtYS1jYW1iaW8tZGUtY3VpZGFyLWEtc3UtZ2F0YS11bmEtdmV6LXF1ZS1lbC1mYWxsZXpjYQ==",
+      "title": "Adulto mayor causa revuelo en redes sociales al ofrecer su herencia a cambio de cuidar a su gata una vez que él fallezca",
+      "link": "https://publimetro.cl/social/2025/07/09/adulto-mayor-causa-revuelo-en-redes-sociales-al-ofrecer-su-herencia-a-cambio-de-cuidar-a-su-gata-una-vez-que-el-fallezca",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/TKWJM6IAJFC2RICHNENVY7HDVI.jpg?focal=325%2C105&auth=6d4c4066e556c0935c7b66500030a68b1560daf23384e39108e1cb37555e2fe2&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-07-09T20:09:26.952Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    },
+    {
+      "id": "aHR0cHM6Ly9wdWJsaW1ldHJvLmNsL3NvY2lhbC8yMDI1LzA4LzI2L2xhLWZsb3JpZGEtaW52aXRhLWEtZXhwby1wYXRpdGFzLWZlcmlhLWdyYXR1aXRhLXBhcmEtbWFzY290YXMtcXVlLWluY2x1aXJhLWxhLWNvcnJpZGEtY29sb3ItcGV0",
+      "title": "La Florida invita a “Expo Patitas”, feria gratuita para mascotas que incluirá la corrida “Color Pet”",
+      "link": "https://publimetro.cl/social/2025/08/26/la-florida-invita-a-expo-patitas-feria-gratuita-para-mascotas-que-incluira-la-corrida-color-pet",
+      "imageUrl": "https://www.publimetro.cl/resizer/v2/Z4FB26KAABHAHC4A2IGQCOPJOQ.jpeg?focal=324%2C219&auth=e3541dd80ebd2f5804cf113fbc54ce594cbfb4a57755d81b26571823a70d9b83&width=800&height=450",
+      "source": "Publimetro Chile",
+      "pubDate": "2025-08-26T03:59:51.278Z",
+      "updatedAt": {
+        "_seconds": 1759797766,
+        "_nanoseconds": 550000000
+      }
+    }
+  ],
+  "pistas": [
+    {
+      "id": "1G2mT4EH4ktQIoDf7Npw",
+      "idmarker": "4gbBF4y3Ge2UBJ6yEGiA",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "nombreUsuario": "Valeria Hernández Gutiérrez",
+      "nombreMascota": "Desconocido",
+      "pista": "yo lo vi!",
+      "fechareporte": "2025-09-30",
+      "fecha": {
+        "_seconds": 1759295116,
+        "_nanoseconds": 568000000
+      }
+    },
+    {
+      "id": "1ncKwocuVwnfFNAwaKQt",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "idmarker": "fL1r5BHuPucPDXbKtF1A",
+      "pista": "Yo lo vi dando vueltas en la calle rosas ayer",
+      "nombre": "VALERIA HERNANDEZ GUTIERREZ",
+      "fecha": {
+        "_seconds": 1759190394,
+        "_nanoseconds": 158000000
+      }
+    },
+    {
+      "id": "2dJoFWsPhR31wGuBUbmC",
+      "nombreMascota": "Desconocido",
+      "pista": "Yo lo he visto dando vueltas\n",
+      "nombreUsuario": "VALERIA HERNANDEZ GUTIERREZ",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "idmarker": "4gbBF4y3Ge2UBJ6yEGiA",
+      "fecha": {
+        "_seconds": 1759290109,
+        "_nanoseconds": 233000000
+      }
+    },
+    {
+      "id": "3KRXkMCvDXyxhtdzT7Rn",
+      "idmarker": "7b15oKue8qomWgt4ft47",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "nombreUsuario": "VALERIA HERNANDEZ GUTIERREZ",
+      "nombreMascota": "Boby",
+      "pista": "la viii",
+      "fechareporte": "2025-10-03",
+      "fecha": {
+        "_seconds": 1759530838,
+        "_nanoseconds": 161000000
+      }
+    },
+    {
+      "id": "DE8CciBQdYhylSLcmn4u",
+      "idmarker": "XderwAtsxV2rThnXReCb",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "nombreUsuario": "VALERIA HERNANDEZ GUTIERREZ",
+      "nombreMascota": "Pedrito",
+      "pista": "yo se que lo ví por ahí\n",
+      "fecha": {
+        "_seconds": 1759290300,
+        "_nanoseconds": 276000000
+      }
+    },
+    {
+      "id": "bGisWLYy4Q5PrCcqtJ6t",
+      "idmarker": "7b15oKue8qomWgt4ft47",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "nombreUsuario": "VALERIA HERNANDEZ GUTIERREZ",
+      "nombreMascota": "Boby",
+      "pista": "lo vi cerca de mi casa",
+      "fechareporte": "2025-10-03",
+      "fecha": {
+        "_seconds": 1760147223,
+        "_nanoseconds": 41000000
+      }
+    },
+    {
+      "id": "emk68JuUo60SYTo3gxR7",
+      "nombreUsuario": "VALERIA HERNANDEZ GUTIERREZ",
+      "nombreMascota": "Pedrito",
+      "pista": "quizás está cerca de la carnicería ",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "idmarker": "XderwAtsxV2rThnXReCb",
+      "fecha": {
+        "_seconds": 1759203621,
+        "_nanoseconds": 642000000
+      }
+    },
+    {
+      "id": "isucwgbu6gXs8T4JdzkO",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "idmarker": "fL1r5BHuPucPDXbKtF1A",
+      "pista": "Yo lo vi ayer cerca de mi casa",
+      "nombreMascota": "Boby",
+      "nombreUsuario": "VALERIA HERNANDEZ GUTIERREZ",
+      "fecha": {
+        "_seconds": 1759196608,
+        "_nanoseconds": 391000000
+      }
+    },
+    {
+      "id": "rdqHx4hF3qqBFZz9gTmv",
+      "pista": "mi hermano dijo que vió uno el otro día\n",
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "nombreMascota": "Pedrito",
+      "idmarker": "XderwAtsxV2rThnXReCb",
+      "nombreUsuario": "VALERIA HERNANDEZ GUTIERREZ",
+      "fecha": {
+        "_seconds": 1759290142,
+        "_nanoseconds": 455000000
+      }
+    }
+  ],
+  "scrape_log": [
+    {
+      "id": "last_run",
+      "updatedAt": {
+        "_seconds": 1760491753,
+        "_nanoseconds": 186000000
+      }
+    }
+  ],
+  "temas": [
+    {
+      "id": "0wO13jM1VH4yBjjUtun6",
+      "titulo": "Mi perro suele desaparecer 🙃 ",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "cuerpo": "tengo un perro que nunca se donde anda y aparece y desaparece cuando le place, que puedo hacer? ☹",
+      "nombreuser": "Roberto",
+      "n_gusta": 3,
+      "fecha": {
+        "_seconds": 1717387200,
+        "_nanoseconds": 359000000
+      },
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2Ff9a45b1f-6db4-4695-a942-2524e3242c08.JPG?alt=media&token=7fac4ef4-7e02-4cc9-a9b3-44e612bb2593",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2",
+      "c_avatar": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1759985675923.png?alt=media&token=83304dcf-a8bc-4a10-bcfd-1e842fb1f5b8",
+      "n_com": 2,
+      "comentario": "yo lo veo en mi casa a veces",
+      "c_nombre": "VALERIA HERNANDEZ GUTIERREZ"
+    },
+    {
+      "id": "5BTO5Q7v4Uom0SEyaI5s",
+      "nombreuser": "Roberto",
+      "titulo": "Gatos diabéticos ",
+      "cuerpo": "Mi gato no sabe que no puede comer azúcar!",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "c_nombre": "Valeria",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "foto": "",
+      "n_com": 4,
+      "comentario": "pobrecito tu gatito",
+      "n_gusta": 3,
+      "fecha": {
+        "_seconds": 1709262000,
+        "_nanoseconds": 598000000
+      },
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "Cl2PZbPUhqCPLGm7YDq6",
+      "titulo": "Tema 3",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "cuerpo": "Deseo inscribir a mis perritos en una carrera pero no se como",
+      "nombreuser": "Valeria",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocLfs7yZ8CvhUKqiGGy6Yt9MpTjn7GOAbIIGVI_P4cMZUWXIbw=s96-c",
+      "n_com": 1,
+      "comentario": "mmmm llévalos a la playa",
+      "c_nombre": "VALERIA .",
+      "fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 992000000
+      },
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2Fcarreras-de-galgos-c-galgo-libre-1.jpeg?alt=media&token=f196945b-e356-4cff-b5e1-3b9db7cdb6a2",
+      "n_gusta": 2,
+      "iduser": "7vLvXd5g9AT36GZKC527jP5cgiS2"
+    },
+    {
+      "id": "TpiWSDhaiFDBiaq3HuG5",
+      "titulo": "Mascotas No Videntes",
+      "cuerpo": "Mi linda mascota sufre mucho por que no puede ver, es triste",
+      "nombreuser": "Valeria",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "n_com": 4,
+      "comentario": "a la mía le sale fuego de la boca, es normal?",
+      "c_nombre": "Roberto",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2FIMG_2579.tiff?alt=media&token=9666261c-11e7-407a-9dd5-b0ce40e5280d",
+      "fecha": {
+        "_seconds": 1716523200,
+        "_nanoseconds": 671000000
+      },
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "n_gusta": 4
+    },
+    {
+      "id": "gNqObGkEnJ2H2qI07eAy",
+      "fecha": {
+        "_seconds": 1717463412,
+        "_nanoseconds": 121000000
+      },
+      "c_avatar": "https://ionicframework.com/docs/img/demos/avatar.svg",
+      "nombreuser": "Valeria",
+      "titulo": "Mi gato se sube a mi escritorio",
+      "n_com": 0,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "comentario": "Sin Comentarios aún",
+      "c_nombre": "",
+      "cuerpo": "No me deja trabajar!! ya no se que hacer!!!",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2FIMG_2669.jpg?alt=media&token=ea572a0f-1dce-4ba2-8a90-16fd07890a37",
+      "n_gusta": 2,
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    },
+    {
+      "id": "hh3sHXxX5UzeUdaxnbBF",
+      "fecha": {
+        "_seconds": 1717897350,
+        "_nanoseconds": 607000000
+      },
+      "nombreuser": "Valeria",
+      "titulo": "Le gusta jugar en la cama",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "cuerpo": "como hago que se tranquilice??",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "n_com": 1,
+      "comentario": "dale más comida",
+      "c_nombre": "Roberto",
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "n_gusta": 3,
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2FmyBlobFile.png?alt=media&token=0d3d3706-3b99-48c8-b757-6da9c08a6293"
+    },
+    {
+      "id": "la1wn2R36YHLjLlLT8Pm",
+      "titulo": "MI PERRO TIENE UNA EXTRAÑA INFECCIÓN EN SUS OJOS",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "cuerpo": "Me preocupa que este enfermo 🤒",
+      "fecha": {
+        "_seconds": 1717823682,
+        "_nanoseconds": 989000000
+      },
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1717823636193_dfhyukb-86344867-9069-4f64-b315-2598b46d8e56.jpg?alt=media&token=a2fdbb32-3017-4cb7-b068-bc96c7df25dc",
+      "nombreuser": "Roberto",
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "n_com": 4,
+      "comentario": "me encanta",
+      "c_nombre": "Roberto",
+      "n_gusta": 3,
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2"
+    },
+    {
+      "id": "mkezB5o3v55qLgptM8pe",
+      "fecha": {
+        "_seconds": 1720152583,
+        "_nanoseconds": 443000000
+      },
+      "c_avatar": "https://ionicframework.com/docs/img/demos/avatar.svg",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F1720152562988_IMG-20240703-WA0003.jpg?alt=media&token=f6581d88-dcfd-465e-82a9-ec34e7dcdd0b",
+      "nombreuser": "Roberto",
+      "titulo": "que hago?",
+      "n_com": 0,
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "comentario": "Sin Comentarios aún",
+      "c_nombre": "",
+      "cuerpo": "tengo unos gatos muy regalones",
+      "iduser": "EDofnRjjotVwJgfP3CeoSHPWyVj2",
+      "n_gusta": 1
+    },
+    {
+      "id": "nNBDsJlen7RQ0yapMLkc",
+      "titulo": "Mi gata es muy regalona",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "cuerpo": "en estos días de fríos mi gata se pone muy regalona así q me da pena que se quede sola ¿que opinan? 😞",
+      "nombreuser": "Valeria",
+      "fecha": {
+        "_seconds": 1717300800,
+        "_nanoseconds": 602000000
+      },
+      "c_avatar": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "comentario": "que linda es!",
+      "c_nombre": "Valeria",
+      "n_com": 2,
+      "foto": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2FIMG_2671.jpg?alt=media&token=907c77c3-e520-4fb0-9bc8-a76162c64dd8",
+      "n_gusta": 1,
+      "iduser": "H0edQIhat7cwzjJZ6ImekQt3D422"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "106971675091708052641",
+      "fechainicio": {
+        "_seconds": 1720152939,
+        "_nanoseconds": 245000000
+      },
+      "correo": "ign.ramosr@duocuc.cl",
+      "name": "IGNACIO . RAMOS RAMOS",
+      "nombre": "IGNACIO .",
+      "fotouser": "https://lh3.googleusercontent.com/a/ACg8ocLEm-YH3z-F7W__g6CBzRpfy8DHH_wLQChUAZKHaOniLJxnZg=s96-c"
+    },
+    {
+      "id": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "correo": "val.hernandezg@duocuc.cl",
+      "nombre": "VALERIA",
+      "uid": "7vLvXd5g9AT36GZKC527jP5cgiS2",
+      "fechainicio": {
+        "_seconds": 1759016661,
+        "_nanoseconds": 655000000
+      },
+      "name": "VALERIA HERNANDEZ GUTIERREZ",
+      "alertaMascotas": true,
+      "direccion": "San Martin 870, Santiago",
+      "fotouser": "https://firebasestorage.googleapis.com/v0/b/instant-vent-423002-f1.appspot.com/o/uploads%2F7vLvXd5g9AT36GZKC527jP5cgiS2_1759985675923.png?alt=media&token=83304dcf-a8bc-4a10-bcfd-1e842fb1f5b8",
+      "puntos": 8,
+      "portada": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200",
+      "descripcion": "¡Hola! Soy nuevo en MyPet."
+    },
+    {
+      "id": "EDofnRjjotVwJgfP3CeoSHPWyVj2",
+      "correo": "robertowimmer@gmail.com",
+      "fotouser": "https://lh3.googleusercontent.com/a/ACg8ocIKzY3vJnFpBvg3nw4KYp8dUwL1Bu5aR2OpaH-5ud9jZPSWq-rm=s96-c",
+      "name": "Roberto Wimmer",
+      "nombre": "Roberto",
+      "fechainicio": {
+        "_seconds": 1758143443,
+        "_nanoseconds": 221000000
+      },
+      "uid": "EDofnRjjotVwJgfP3CeoSHPWyVj2",
+      "puntos": 0,
+      "direccion": "San Martín 870",
+      "alertaMascotas": true,
+      "portada": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200",
+      "descripcion": "¡Hola! Soy nuevo en MyPet."
+    },
+    {
+      "id": "H0edQIhat7cwzjJZ6ImekQt3D422",
+      "correo": "valeritahernandez@gmail.com",
+      "fotouser": "https://lh3.googleusercontent.com/a/ACg8ocK-Uc0x08AWhzrN9GhRzrbsZeFHF9NHC6sBSYHMey5XrxkLl14Y8w=s96-c",
+      "name": "Valeria Hernández Gutiérrez",
+      "nombre": "Valeria",
+      "fechainicio": {
+        "_seconds": 1757947071,
+        "_nanoseconds": 951000000
+      },
+      "puntos": 1,
+      "portada": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200",
+      "descripcion": "¡Hola! Soy nuevo en MyPet."
+    },
+    {
+      "id": "HJikUF6wOIhF68Ua0oHuOgIU3BD3",
+      "correo": "jpcv20@gmail.com",
+      "fechainicio": {
+        "_seconds": 1757604158,
+        "_nanoseconds": 473000000
+      },
+      "fotouser": "https://lh3.googleusercontent.com/a/ACg8ocJ3i15fD95jQN6HnQIFp4XFg2U8n-RAONiB2LLictGLhwmrcQLOWg=s96-c",
+      "name": "Juan Pablo Castillo Vera",
+      "nombre": "Juan",
+      "puntos": 0,
+      "portada": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200",
+      "descripcion": "¡Hola! Soy nuevo en MyPet."
+    },
+    {
+      "id": "j5VfbaiOHIOSRK27HF0CX5FFItc2",
+      "correo": "jenny.linda.hermosa@gmail.com",
+      "fechainicio": {
+        "_seconds": 1757604331,
+        "_nanoseconds": 288000000
+      },
+      "fotouser": "https://lh3.googleusercontent.com/a/ACg8ocJhS6h0RWw64e9_HydrI83Y-fkettJP_tK1Jnv7hwkrDHc3NA=s96-c",
+      "name": "Jenny Hernandez",
+      "nombre": "Jenny",
+      "puntos": 0,
+      "portada": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200",
+      "descripcion": "¡Hola! Soy nuevo en MyPet."
+    },
+    {
+      "id": "rbAehBN4P9bMVe6B2zHttfJEYAt1",
+      "correo": "cristianx10cpm@gmail.com",
+      "fechainicio": {
+        "_seconds": 1757604163,
+        "_nanoseconds": 303000000
+      },
+      "fotouser": "https://lh3.googleusercontent.com/a/ACg8ocKa_l3XKXHtCze0tSeKpzJ5334h8Kjr7TyDKAvROjAPi7QE6By0=s96-c",
+      "name": "cristian perez m",
+      "nombre": "cristian",
+      "puntos": 0,
+      "portada": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200",
+      "descripcion": "¡Hola! Soy nuevo en MyPet."
+    },
+    {
+      "id": "s6j28R1EXZOpJ0mVzKPlNqNT6M23",
+      "correo": "jpcarrionsalazar@gmail.com",
+      "fechainicio": {
+        "_seconds": 1757604388,
+        "_nanoseconds": 423000000
+      },
+      "fotouser": "https://lh3.googleusercontent.com/a/ACg8ocKDyXrKOPhmKG5gLzHV-aMdJBqbCCllehqv1T23Qm16q7Fx-Q=s96-c",
+      "name": "Juan-Pablo Carrión Salazar",
+      "nombre": "Juan-Pablo",
+      "puntos": 0,
+      "portada": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200",
+      "descripcion": "¡Hola! Soy nuevo en MyPet."
+    }
+  ]
+}
